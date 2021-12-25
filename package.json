@@ -1,0 +1,23 @@
+{
+  "name": "vip-bot",
+  "version": "1.0.0",
+  "description": "A twitch chatbot to parse the VIP user list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilotitato/vip-bot.git"
+  },
+  "author": "Danilo Titato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilotitato/vip-bot/issues"
+  },
+  "homepage": "https://github.com/danilotitato/vip-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
